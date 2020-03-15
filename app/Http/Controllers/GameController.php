@@ -43,4 +43,6 @@ class GameController extends Controller
     	$data = Auth::guard('api')->user();
     	// dump($data);exit;
     }
+
+    //baru
 }
