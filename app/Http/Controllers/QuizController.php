@@ -52,5 +52,9 @@ class QuizController extends Controller
     }
     //test
 
+	public function deactive()
+	{
+		//
+	}
 
 }
